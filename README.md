@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello World 👋
 
-<!--
-**Bananinha/Bananinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🤖 Name: Fernando Bento
 
-Here are some ideas to get you started:
+🔭 Current Role: Working at Kyndryl
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning:
+- C# for game development with UE
+- Rexx
+- Cobol
+- Mainframe skills
+
+👯 Looking to Collaborate: Let-Me-Sleep-Inc
+
+🤔 Seeking Help With: Game development
+
+### Projects
+🚀 Project 1: Let-Me-Sleep-Inc - Game development indie startup.
+
+### Contact Me
+💼 LinkedIn: [Fernando Bento](https://www.linkedin.com/in/fernando-bento/)
+
+### Fun Facts
+🎮 Hobbies: Gaming, Coding, Cooking, Woodworking
+
+🌍 Languages: Portuguese, English, Spanish
